@@ -29,7 +29,7 @@
     "body-parser": "^1.19.0",
     "concurrently": "^4.1.1",
     "debug": "^4.1.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "hammerjs": "^2.0.8",
     "nodemon": "^1.19.1",
     "rxjs": "~6.4.0",
